@@ -15,7 +15,7 @@ public class EmployeeRegister {
 		System.out.println("How many employees will be registered? ");
 		int n = sc.nextInt();
 
-		for (int i = 0; i <= n; i++){
+		for (int i = 0; i < n; i++){
 			System.out.println("Employee #" + (i + 1)+ ":");
 			System.out.print("ID: ");
 			int id = sc.nextInt();
@@ -35,9 +35,15 @@ public class EmployeeRegister {
 		System.out.println("Enter the employee id that will have salary increase: ");
 		int id = sc.nextInt();
 		Employee emp = registro.stream().filter(x -> x.getId() == id).findFirst().orElse(null);
-		System.out.println("Enter the percentage: ");
-		double percentage = sc.nextDouble();
-		emp.increasySalary(percentage);
+
+		if (emp == null){
+			System.out.println("This id does not exist!");
+		}
+		else {
+			System.out.println("Enter the percentage: ");
+			double percentage = sc.nextDouble();
+			emp.increasySalary(percentage);
+		}
 
 		System.out.println("List of Employees: ");
 		for ( Employee funcionario : registro) {

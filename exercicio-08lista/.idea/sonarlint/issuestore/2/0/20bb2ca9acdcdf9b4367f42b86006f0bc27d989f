@@ -1,0 +1,20 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¡ªË¤øÿÿÿÿ8ÉˆÙ.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Š‘„²8ÉˆÙ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(—ÄÀü8ÉˆÙ.
+7
+java:S1220""Move this file to a named package.8ÉˆÙ.
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(€¦Ùıøÿÿÿÿ8Ú†ıÙ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ôç¢×8ÉˆÙ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¿Ó¢¼8İÑéÙ.
+T	java:S106#"9Replace this use of System.out or System.err by a logger.(åÑ®8ÉˆÙ.
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(ËáÇöøÿÿÿÿ8óë©Ú.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(µ˜Ô†8ø˜Ù.
+>
+java:S1116 "Remove this empty statement.(†á•ııÿÿÿÿ8ÉˆÙ.
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8îñÉÙ.
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(ŠÀš¿8ÉˆÙ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(â˜Á§8ÉˆÙ.
+U	java:S106("9Replace this use of System.out or System.err by a logger.(îãÍ‹8¢ê¨Ú.
