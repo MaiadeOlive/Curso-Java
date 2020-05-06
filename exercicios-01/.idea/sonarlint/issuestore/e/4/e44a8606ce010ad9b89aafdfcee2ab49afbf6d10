@@ -1,0 +1,117 @@
+
+U	java:S106."9Replace this use of System.out or System.err by a logger.(•Çî8ó„á·œ.
+t
+java:S1192l"XDefine a constant instead of duplicating this literal "Valor a Pagar: R$%.2f%n" 3 times.(ÉÚúB8²ùÀ»œ.
+`
+java:S1854[">Remove this useless assignment to local variable "peca_2_num".(äÍãúÿÿÿÿ8’–»œ.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÜ¨»8å¾¤·œ.
+m	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ªË8¡Ğ¼¹œ.
+r	java:S117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌõÆÖøÿÿÿÿ8Ù¯¿»œ.
+m	java:S117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒèØ¤8ùñÅ¹œ.
+m	java:S117}"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶üƒ•8óÁ²¼œ.
+L
+java:S1481Z"/Remove this unused "peca_1_num" local variable.(™ş»³8’–»œ.
+m	java:S117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê‚Ò8‰ÆÑ¹œ.
+U	java:S106O"9Replace this use of System.out or System.err by a logger.(úªóö8ê Ø¹œ.
+m	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÌÓš8ûÕÛ·œ.
+R
+java:S1481\"0Remove this unused "peca_12_num" local variable.(şÁÍüÿÿÿÿ8’–»œ.
+m
+java:S1192 "KDefine a constant instead of duplicating this literal "A = %.4f%n" 3 times.(¯Á¹øÿÿÿÿ8·Ñ½·œ.
+r	java:S117a"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’¯àşşÿÿÿÿ8éĞ»œ.
+a
+java:S1854^"?Remove this useless assignment to local variable "peca_16_num".(Ñâ¢ıûÿÿÿÿ8­Ÿ»œ.
+r	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î½Ş…ùÿÿÿÿ8õ»¼¹œ.
+l	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§û€8ûÕÛ·œ.
+m	java:S117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ş»³8’–»œ.
+r	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦èÓÕøÿÿÿÿ8éĞ»œ.
+r	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ÊÈ‹ıÿÿÿÿ8¡Ğ¼¹œ.
+l	java:S117h"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÒİ8Ù¯¿»œ.
+Z	java:S106P"9Replace this use of System.out or System.err by a logger.(ª£–Öúÿÿÿÿ8ê Ø¹œ.
+\
+java:S1854]"?Remove this useless assignment to local variable "peca_13_num".(Ï©Ú´8’–»œ.
+V	java:S106”"9Replace this use of System.out or System.err by a logger.(™ÃØË8óÁ²¼œ.
+[	java:S106†"9Replace this use of System.out or System.err by a logger.(‰·™¿ûÿÿÿÿ8óÁ²¼œ.
+0
+java:S1220""Move this file to a named package.
+r	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“»¾İûÿÿÿÿ8ûÕÛ·œ.
+m	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ÂÍ8˜†à·œ.
+r	java:S117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñâ¢ıûÿÿÿÿ8­Ÿ»œ.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(·êğşøÿÿÿÿ8Óâ·œ.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÑèÅ8ÆË¬·œ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(è–Ó8È¯ˆ·œ.
+r	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š‰ÑÉúÿÿÿÿ8İ†ã·œ.
+T	java:S106!"9Replace this use of System.out or System.err by a logger.(øëv8Óâ·œ.
+Z	java:S106S"9Replace this use of System.out or System.err by a logger.(ôôœ°ÿÿÿÿÿ8ê Ø¹œ.
+[	java:S106…"9Replace this use of System.out or System.err by a logger.(¤¸³åüÿÿÿÿ8óÁ²¼œ.
+M
+java:S1481]"0Remove this unused "peca_13_num" local variable.(Ï©Ú´8’–»œ.
+r	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÜÙ³øÿÿÿÿ8İ†ã·œ.
+[	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(§±‚şÿÿÿÿ8óÁ²¼œ.
+s	java:S117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í«Œûúÿÿÿÿ8ë‰ì»œ.
+m	java:S117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÍ½8‰ÆÑ¹œ.
+r	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èµõùÿÿÿÿ8éĞ»œ.
+n	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ô£½8óÁ²¼œ.
+r	java:S117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÁÍüÿÿÿÿ8’–»œ.
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(¯Á¹øÿÿÿÿ8§í—·œ.
+r	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òöğ×úÿÿÿÿ8İ†ã·œ.
+Z	java:S106m"9Replace this use of System.out or System.err by a logger.(€¥ş¤üÿÿÿÿ8Ù¯¿»œ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(”ÉÈøúÿÿÿÿ8·¬‡·œ.
+m	java:S117y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü•¿›8˜Îë»œ.
+[	java:S106•"9Replace this use of System.out or System.err by a logger.(ì˜Ù·øÿÿÿÿ8óÁ²¼œ.
+m	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï©Ú´8’–»œ.
+r	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¥éŞûÿÿÿÿ8õ»¼¹œ.
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(”ÿÎ™ÿÿÿÿÿ8İ†ã·œ.
+m	java:S117~"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Õ½8óÁ²¼œ.
+]
+java:S1854_"@Remove this useless assignment to local variable "peca_161_num".(¶í—8­Ÿ»œ.
+l	java:S117c"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ã˜a8éĞ»œ.
+s	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ½éÈùÿÿÿÿ8ë‰ì»œ.
+m	java:S117j"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–•†»8Ù¯¿»œ.
+d
+java:S1128"BRemove this unused import 'javax.swing.plaf.synth.SynthConstants'.(„¢¡Œøÿÿÿÿ8óÁ²¼œ.
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Éï»ìüÿÿÿÿ8óÁ²¼œ.
+r	java:S117f"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÇøÿÿÿÿ8Ò¹Ÿ»œ.
+Q
+java:S1481["/Remove this unused "peca_2_num" local variable.(äÍãúÿÿÿÿ8’–»œ.
+U	java:S106–"9Replace this use of System.out or System.err by a logger.(‚ÃÊ/8óÁ²¼œ.
+n	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Æ¥â8óÁ²¼œ.
+U	java:S106R"9Replace this use of System.out or System.err by a logger.(­÷Û8ê Ø¹œ.
+m	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë°»‚8…ë±¹œ.
+r	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆó»°üÿÿÿÿ8…ë±¹œ.
+m	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Èµœ8İ†ã·œ.
+r	java:S117d"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰åÂùÿÿÿÿ8éĞ»œ.
+Z	java:S106n"9Replace this use of System.out or System.err by a logger.(¶ì§Šúÿÿÿÿ8Ù¯¿»œ.
+e
+java:S1192"HDefine a constant instead of duplicating this literal "Soma = " 3 times.(û¶–î8È¯ˆ·œ.
+t
+java:S1192M"RDefine a constant instead of duplicating this literal "SALARY = U$%.2f%n" 3 times.(ş«üõüÿÿÿÿ8°©Û¹œ.
+m	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶í—8­Ÿ»œ.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë³¹æşÿÿÿÿ8ÆË¬·œ.
+s	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ã™›şÿÿÿÿ8ë‰ì»œ.
+m	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Œ‰©8ûÕÛ·œ.
+r	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÍãúÿÿÿÿ8’–»œ.
+[	java:S106’"9Replace this use of System.out or System.err by a logger.(í÷­ìıÿÿÿÿ8óÁ²¼œ.
+U	java:S106L"9Replace this use of System.out or System.err by a logger.(â­¥º8ğ¨Á¹œ.
+s	java:S117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç¸êşÿÿÿÿ8óÁ²¼œ.
+a
+java:S1854\"?Remove this useless assignment to local variable "peca_12_num".(şÁÍüÿÿÿÿ8’–»œ.
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(ş«üõüÿÿÿÿ8ÿÂ¹œ.
+V	java:S106‚"9Replace this use of System.out or System.err by a logger.(“Àûã8óÁ²¼œ.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¥„şÿÿÿÿ8óÁ²¼œ.
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸œÒñüÿÿÿÿ8óÁ²¼œ.
+l	java:S117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢úç8óÁ²¼œ.
+k
+java:S1192L"NDefine a constant instead of duplicating this literal "NUMBER = %d%n" 3 times.(â­¥º8íÆÚ¹œ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(û¶–î8ä£·œ.
+T	java:S106l"9Replace this use of System.out or System.err by a logger.(ÉÚúB8Ù¯¿»œ.
+V	java:S106“"9Replace this use of System.out or System.err by a logger.(µÙÍ£8óÁ²¼œ.
+n	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è¶¤µ8óÁ²¼œ.
+N
+java:S1481_"1Remove this unused "peca_161_num" local variable.(¶í—8Å’Ÿ»œ.
+r	java:S117x"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è—·…ıÿÿÿÿ8˜Îë»œ.
+r	java:S117z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÛ¦¾øÿÿÿÿ8˜Îë»œ.
+r	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘¼Âïúÿÿÿÿ8İ†ã·œ.
+V	java:S106„"9Replace this use of System.out or System.err by a logger.(çâ¥ì8óÁ²¼œ.
+R
+java:S1481^"0Remove this unused "peca_16_num" local variable.(Ñâ¢ıûÿÿÿÿ8­Ÿ»œ.

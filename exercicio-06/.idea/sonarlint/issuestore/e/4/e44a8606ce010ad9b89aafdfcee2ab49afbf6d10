@@ -1,0 +1,22 @@
+
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(çíŸûşÿÿÿÿ8‡‰œ‹.
+C
+java:S1481"&Remove this unused "x" local variable.(‚Œ™„8ÂãÍ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ã÷…ışÿÿÿÿ8Şëû.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ï¶‰üÿÿÿÿ8Şëû.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(úú®ÿÿÿÿÿ8•¼º‹.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¤ úŸ8Ÿ—‹.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ßùÜ¬úÿÿÿÿ8Şëû.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(­õºƒ8Şëû.
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(é“Ùˆÿÿÿÿÿ8Şëû.
+0
+java:S1220""Move this file to a named package.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¸°Ê8ã¥‹.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(ã÷…ışÿÿÿÿ8Şëû.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ï¶‰üÿÿÿÿ8Şëû.
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(ï¶‰üÿÿÿÿ8Şëû.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úï€µ8šÚ£‹.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ¦„ãşÿÿÿÿ8Íï¦‹.
+R
+java:S1854"5Remove this useless assignment to local variable "x".(‚Œ™„8ÂãÍ.

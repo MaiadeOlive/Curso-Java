@@ -1,0 +1,17 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(è©Æî
+0
+java:S1220""Move this file to a named package.
+d
+java:S1128"NRemove this unused import 'com.sun.org.apache.xpath.internal.objects.XObject'.(è©Æî
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(ÍÍ›ÿøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ø“·ş
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ôç¢×
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ş…ºù
+S	java:S106"9Replace this use of System.out or System.err by a logger.(â¥…ûÿÿÿÿ
+7
+java:S1116"Remove this empty statement.(´Ûî€øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(³Ö¾˜úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¸Õû

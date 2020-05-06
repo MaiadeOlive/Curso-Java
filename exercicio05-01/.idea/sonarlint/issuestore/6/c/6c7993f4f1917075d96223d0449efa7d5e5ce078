@@ -1,0 +1,14 @@
+
+t
+java:S1104"RMake altura a static final constant or non-public and provide accessors if needed.(¾¼ö¼ùÿÿÿÿ8ÃßßÀ.
+m
+java:S1104"PMake base a static final constant or non-public and provide accessors if needed.(ùŞ8ÂÔÚÀ.
+}
+java:S1488"aImmediately return this expression instead of assigning it to the temporary variable "perimetro".(®à­8ÁôêÀ.
+x
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "area".(¿Ÿ8ÃßßÀ.
+>
+java:S1116
+"Remove this empty statement.(ôŸìúÿÿÿÿ8§‰ÔÀ.
+}
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "diagonal".(µ˜8’¯‚Á.

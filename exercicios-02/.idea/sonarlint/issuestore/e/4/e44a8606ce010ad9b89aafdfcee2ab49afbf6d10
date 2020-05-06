@@ -1,0 +1,73 @@
+
+Z	java:S106c"9Replace this use of System.out or System.err by a logger.(±ÿçşÿÿÿÿ8´Ï´•.
+Z	java:S106f"9Replace this use of System.out or System.err by a logger.(Œ”˜¾úÿÿÿÿ8´Ï´•.
+N	java:S106£"9Replace this use of System.out or System.err by a logger.(¡ïÀO
+T	java:S106›"9Replace this use of System.out or System.err by a logger.(ùå’ªÿÿÿÿÿ
+U	java:S106‘"9Replace this use of System.out or System.err by a logger.(ôí¼8¾á³•.
+O	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(²õ¯
+r	java:S117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦é®Êüÿÿÿÿ8´Ï´•.
+S
+java:S1128"8Remove this unused import 'sun.security.jgss.GSSCaller'.(ıÛÈşÿÿÿÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(ıÛÈşÿÿÿÿ
+r	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šé«Ÿıÿÿÿÿ8´Ï´•.
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(ˆ°ö øÿÿÿÿ8´Ï´•.
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(¼õÎ¡8Í²¸•.
+m	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ÊÌ8´Ï´•.
+m	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Ìîş8Í²¸•.
+s
+java:S3457<"Q%n should be used in place of \n to produce the platform-specific line separator.(ğİõùûÿÿÿÿ8Í²¸•.
+[	java:S106‹"9Replace this use of System.out or System.err by a logger.(õ´ş¿ÿÿÿÿÿ8¾á³•.
+Z	java:S106s"9Replace this use of System.out or System.err by a logger.(™ğ÷ıÿÿÿÿ8”‡´•.
+F
+java:S1481¢"*Remove this unused "total" local variable.(ïÁÖÑıÿÿÿÿ
+[	java:S106"9Replace this use of System.out or System.err by a logger.(îËôƒÿÿÿÿÿ8¾á³•.
+r	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á°öùøÿÿÿÿ8´Ï´•.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(«Àáä8Í²¸•.
+r	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í˜âáùÿÿÿÿ8´Ï´•.
+r	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ»×üÿÿÿÿ8´Ï´•.
+n	java:S117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•³Éí8¾á³•.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ö„ç8Í²¸•.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(²ˆ¤±8Í²¸•.
+V	java:S106†"9Replace this use of System.out or System.err by a logger.(§¸§”8¾á³•.
+T	java:S106§"9Replace this use of System.out or System.err by a logger.(Ùé©Úùÿÿÿÿ
+Z	java:S106S"9Replace this use of System.out or System.err by a logger.(±ÿçşÿÿÿÿ8´Ï´•.
+U	java:S106|"9Replace this use of System.out or System.err by a logger.(üÂª8”‡´•.
+V	java:S106”"9Replace this use of System.out or System.err by a logger.(ßô8¾á³•.
+r	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¥ÅÑüÿÿÿÿ8Í²¸•.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Áƒ‡Öıÿÿÿÿ8Í²¸•.
+[	java:S106«"9Replace this use of System.out or System.err by a logger.(Ùé©Úùÿÿÿÿ8ü§—•.
+\
+java:S1854¢"9Remove this useless assignment to local variable "total".(ïÁÖÑıÿÿÿÿ8Ô•.
+r	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ò‚üÿÿÿÿÿ8Í²¸•.
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(–‘Øòÿÿÿÿÿ8Í²¸•.
+U	java:S106y"9Replace this use of System.out or System.err by a logger.(œ“’—8”‡´•.
+Z	java:S106W"9Replace this use of System.out or System.err by a logger.(±ÿçşÿÿÿÿ8´Ï´•.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(üÂª8”‡´•.
+m	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºç¤Š8´Ï´•.
+r	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™åúªùÿÿÿÿ8´Ï´•.
+r	java:S117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅªŞúÿÿÿÿ8´Ï´•.
+n	java:S117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿé¨Î8¾á³•.
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(ğİõùûÿÿÿÿ8Í²¸•.
+Z	java:S106["9Replace this use of System.out or System.err by a logger.(±ÿçşÿÿÿÿ8´Ï´•.
+Z	java:S106_"9Replace this use of System.out or System.err by a logger.(±ÿçşÿÿÿÿ8´Ï´•.
+Z	java:S106v"9Replace this use of System.out or System.err by a logger.(É÷…¼ÿÿÿÿÿ8”‡´•.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(øñÁ¼8Í²¸•.
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(ÏÅ¡€8Í²¸•.
+Z	java:S106o"9Replace this use of System.out or System.err by a logger.(ÑØ‘Úûÿÿÿÿ8”‡´•.
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(Ò¡Á8Í²¸•.
+[	java:S106¯"9Replace this use of System.out or System.err by a logger.(Ùé©Úùÿÿÿÿ8£ë—•.
+r
+java:S1192S"PDefine a constant instead of duplicating this literal "Total: R$%.2f%n" 5 times.(±ÿçşÿÿÿÿ8´Ï´•.
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(úıã8Í²¸•.
+n
+java:S34578"Q%n should be used in place of \n to produce the platform-specific line separator.(úıã8Í²¸•.
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(«Àáä8Í²¸•.
+0
+java:S1220""Move this file to a named package.
+r	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì Ë®úÿÿÿÿ8Í²¸•.
+l
+java:S1192§"IDefine a constant instead of duplicating this literal "R$%.2f%n" 3 times.(Ùé©Úùÿÿÿÿ8Éú¯•.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(Çµí‘8”‡´•.

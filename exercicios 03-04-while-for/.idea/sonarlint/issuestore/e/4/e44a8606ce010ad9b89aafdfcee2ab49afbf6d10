@@ -1,0 +1,32 @@
+
+]	java:S125j"<This block of commented-out lines of code should be removed.(Ã–š‘ùÿÿÿÿ8¬€Ø¯.
+^	java:S125…"<This block of commented-out lines of code should be removed.(·´ü«ûÿÿÿÿ8•¯é°.
+X	java:S125D"<This block of commented-out lines of code should be removed.(ª„‰‹8ï«ô­.
+]	java:S125["<This block of commented-out lines of code should be removed.(†û¤´øÿÿÿÿ8‰›‰¯.
+^	java:S125‰"<This block of commented-out lines of code should be removed.(è•ØŠúÿÿÿÿ8•¯é°.
+^	java:S125‚"<This block of commented-out lines of code should be removed.(Ã–š‘ùÿÿÿÿ8•¯é°.
+0
+java:S1220""Move this file to a named package.
+[	java:S106¾"9Replace this use of System.out or System.err by a logger.(•ÍÚ§ûÿÿÿÿ8†şµ¶.
+X	java:S125o"<This block of commented-out lines of code should be removed.(ÆôÇ”8¬€Ø¯.
+]	java:S125:"<This block of commented-out lines of code should be removed.(ù¼‡Ùúÿÿÿÿ8ï«ô­.
+^	java:S125‹"<This block of commented-out lines of code should be removed.(ï«½şşÿÿÿÿ8•¯é°.
+^	java:S125›"<This block of commented-out lines of code should be removed.(†›¤úÿÿÿÿ8ûä’±.
+^	java:S125˜"<This block of commented-out lines of code should be removed.(Ã–š‘ùÿÿÿÿ8ûä’±.
+]	java:S125P"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ï«ô­.
+X	java:S125Ÿ"<This block of commented-out lines of code should be removed.(ÒøÌ#8ûä’±.
+V	java:S106¹"9Replace this use of System.out or System.err by a logger.(ç¿Áî8†şµ¶.
+V	java:S106Ç"9Replace this use of System.out or System.err by a logger.(ç¿Áî8±¸ ¶.
+]	java:S125"<This block of commented-out lines of code should be removed.(“êÌ–ıÿÿÿÿ8ï«ô­.
+V	java:S106Ì"9Replace this use of System.out or System.err by a logger.(¶´×Ò8¨“­¶.
+[	java:S106Í"9Replace this use of System.out or System.err by a logger.(°£îşüÿÿÿÿ8¨“­¶.
+W	java:S125"<This block of commented-out lines of code should be removed.(‹÷Ä@8ï«ô­.
+]	java:S125"<This block of commented-out lines of code should be removed.(¾Ş—ºúÿÿÿÿ8ï«ô­.
+]	java:S125"<This block of commented-out lines of code should be removed.(²Üó¾úÿÿÿÿ8ï«ô­.
+[	java:S106Ë"9Replace this use of System.out or System.err by a logger.(ÏÚøÓûÿÿÿÿ8¨“­¶.
+]	java:S125^"<This block of commented-out lines of code should be removed.(Ø¦»§ÿÿÿÿÿ8‰›‰¯.
+p
+java:S1192¬"RDefine a constant instead of duplicating this literal "Digite um nÃºmero" 3 times.(ç¿Áî8Õ³¶¶.
+n	java:S117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÁü8Õ³¶¶.
+V	java:S106¬"9Replace this use of System.out or System.err by a logger.(ç¿Áî8Õ³¶¶.
+[	java:S106µ"9Replace this use of System.out or System.err by a logger.(•ÑìŸşÿÿÿÿ8Õ³¶¶.
