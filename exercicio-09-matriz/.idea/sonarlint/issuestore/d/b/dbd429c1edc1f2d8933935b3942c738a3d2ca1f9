@@ -1,0 +1,21 @@
+
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(æÊŸç8·ÃáŞ.
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(ßŞıµ8ß™¤İ.
+M
+java:S1128"0Remove this unused import 'sun.awt.geom.AreaOp'.(ßŞıµ8ß™¤İ.
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(îê³ë8¥¨ËŞ.
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(ó—ÏÈ8ËŒ İ.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(¸œÛÈşÿÿÿÿ8·ÃáŞ.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Çµí‘8Å¦“ß.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ó•š¾
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¬ÙÃÈúÿÿÿÿ8ß™¤İ.
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(â¢¶×şÿÿÿÿ8·ÃáŞ.
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(à×µ›ıÿÿÿÿ8·ÃáŞ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¶¬ó8ŒŒêİ.
+i
+java:S3973*"GUse indentation to denote the code conditionally executed by this "if".(â¼÷§ÿÿÿÿÿ8–û¨ß.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(‘‡O8Õ¾İ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¹•©Ÿ8Á¿¤İ.
