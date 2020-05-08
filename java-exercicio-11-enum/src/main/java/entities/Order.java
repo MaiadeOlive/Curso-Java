@@ -70,11 +70,16 @@ public class Order {
 	}
 
 	public String toString() {
-		return "ORDER SUMARY: \n" +
-				"Order moment: " +  sdf.format(moment) + "\n" +
-				"Order status: " + status + "\n" +
-				"Client: " + client + "\n" +
-				"Order Items:\n" + orderItemList.toString() +
-				"\nTotal Price: $" + total();
+		StringBuilder sb = new StringBuilder();
+		sb.append("ORDER SUMARY: \n");
+		sb.append("Order moment: " +  sdf.format(moment) + "\n");
+		sb.append("Order status: " + status + "\n");
+		sb.append("Client: " + client + "\n");
+		sb.append("Order Items:\n");
+		for (OrderItem item : orderItemList){
+			sb.append(item + "\n");
+		}
+		sb.append("Total Price: $" + total());
+		return sb.toString();
 	}
 }
