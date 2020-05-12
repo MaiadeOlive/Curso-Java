@@ -6,8 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="exercicio-11-enum" />
-        <module name="java-exercicio-11-enum" />
+        <module name="exercicio-12.1-polimorfismo" />
       </profile>
     </annotationProcessing>
   </component>

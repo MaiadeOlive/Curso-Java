@@ -1,19 +1,19 @@
 
 U	java:S106#"9Replace this use of System.out or System.err by a logger.(®¡¡©8áá¯Ÿ.
-l	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—‚‰!8¾ÕŸ.
-r	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òŠÃÖşÿÿÿÿ8¾ÕŸ.
-n
-java:S3457-"Q%n should be used in place of \n to produce the platform-specific line separator.(‹‘¸8Ä…Ÿ.
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(è€À—ıÿÿÿÿ8•ß·Ÿ.
 Z	java:S106/"9Replace this use of System.out or System.err by a logger.(Í±öòıÿÿÿÿ8¾ÕŸ.
-Z	java:S106@"9Replace this use of System.out or System.err by a logger.(ÍÕ§§ùÿÿÿÿ8Ş«±Ÿ.
-U	java:S106-"9Replace this use of System.out or System.err by a logger.(‹‘¸8â²ÛŸ.
-U	java:S1066"9Replace this use of System.out or System.err by a logger.(ïß°8¾ÕŸ.
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(ªÊ¶8¾ÕŸ.
 U	java:S106$"9Replace this use of System.out or System.err by a logger.(ú·Éè8ò­Ÿ.
-Z	java:S106?"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Ü•ÁŸ.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Ş…ºù8ï¹“Ÿ.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(íˆÉùÿÿÿÿ8ìêŸ.
+r	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥î‰¶ÿÿÿÿÿ8¾ÕŸ.
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(ïß°8¾ÕŸ.
 U	java:S106"9Replace this use of System.out or System.err by a logger.(Ôç¢×8ò­Ÿ.
 U	java:S106"9Replace this use of System.out or System.err by a logger.(ãâõğ8ò­Ÿ.
-U	java:S1061"9Replace this use of System.out or System.err by a logger.(ªÊ¶8¾ÕŸ.
-r	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥î‰¶ÿÿÿÿÿ8¾ÕŸ.
-Z	java:S106)"9Replace this use of System.out or System.err by a logger.(è€À—ıÿÿÿÿ8•ß·Ÿ.
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(ÍÕ§§ùÿÿÿÿ8Ş«±Ÿ.
+r	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òŠÃÖşÿÿÿÿ8¾ÕŸ.
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Ü•ÁŸ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(íˆÉùÿÿÿÿ8ìêŸ.
+l	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—‚‰!8¾ÕŸ.
+n
+java:S3457-"Q%n should be used in place of \n to produce the platform-specific line separator.(‹‘¸8Ä…Ÿ.
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(‹‘¸8â²ÛŸ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ş…ºù8ï¹“Ÿ.
