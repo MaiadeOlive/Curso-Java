@@ -1,0 +1,15 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ìÕ­ıÿÿÿÿ8ßöµ„¡.
+X
+java:S1854"6Remove this useless assignment to local variable "sb".(€ê±Õúÿÿÿÿ8ëúÎ…¡.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(·Æİ8„„Å„¡.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¨õõÿÿÿÿÿ8şŞÖ„¡.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(…¸Şƒÿÿÿÿÿ8şŞÖ„¡.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‚ÎåËşÿÿÿÿ8—ÑĞ„¡.
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(éîê†8Ñ•›…¡.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ôç¢×8€¥è„¡.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(µŠÌ‘8üˆÕ„¡.
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(ŸØÙ•üÿÿÿÿ8ÜÏ—…¡.
+I
+java:S1481"'Remove this unused "sb" local variable.(€ê±Õúÿÿÿÿ8ëúÎ…¡.
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(ÃÇÈ8÷“Î…¡.
