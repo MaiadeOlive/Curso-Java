@@ -1,0 +1,16 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÒÎáı
+r
+java:S1128"\Remove this unused import 'com.sun.org.apache.xerces.internal.util.SynchronizedSymbolTable'.(‰å«Ã
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ß¥Ø›
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(ÿ°éŒşÿÿÿÿ8¸º™ƒ¢.
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(‰å«Ã
+f
+java:S1128"DRemove this unused import 'javax.rmi.ssl.SslRMIClientSocketFactory'.(˜ÑÄ±úÿÿÿÿ8¸º™ƒ¢.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Šášûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(—¶ì»ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ò¹íúıÿÿÿÿ
+]	java:S125'"<This block of commented-out lines of code should be removed.(Øºé·ÿÿÿÿÿ8­…Çƒ¢.
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ†ß˜
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(‡ø·´ÿÿÿÿÿ8ªì¸ƒ¢.
