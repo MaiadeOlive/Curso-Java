@@ -6,8 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="java-exercicio-17-set" />
+        <module name="java-exercicio-18-map" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="java-exercicio-17-set" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>

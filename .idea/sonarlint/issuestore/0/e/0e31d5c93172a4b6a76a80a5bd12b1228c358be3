@@ -1,0 +1,13 @@
+
+7
+java:S1220""Move this file to a named package.8öê‰¢«.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÔÍÏæÿÿÿÿÿ8·€Ç¤«.
+
+java:S1130
+"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(ˆ…­Å8ÌÛà¤«.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(”îÉÎ8·€Ç¤«.
+V
+java:S2864)"4Iterate over the "entrySet" instead of the "keySet".(äÈŞüÿÿÿÿ8·€Ç¤«.
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(äìÎÆ8·€Ç¤«.
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(şõúë8·€Ç¤«.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ8·€Ç¤«.
