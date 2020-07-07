@@ -1,13 +1,14 @@
 
-7
-java:S1220""Move this file to a named package.8öê‰¢«.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÔÍÏæÿÿÿÿÿ8·€Ç¤«.
-
-java:S1130
-"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(ˆ…­Å8ÌÛà¤«.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(”îÉÎ8·€Ç¤«.
-V
-java:S2864)"4Iterate over the "entrySet" instead of the "keySet".(äÈŞüÿÿÿÿ8·€Ç¤«.
-U	java:S106/"9Replace this use of System.out or System.err by a logger.(äìÎÆ8·€Ç¤«.
-U	java:S106*"9Replace this use of System.out or System.err by a logger.(şõúë8·€Ç¤«.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ8·€Ç¤«.
+0
+java:S1220""Move this file to a named package.
+I
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+K
+java:S1128"5Remove this unused import 'java.text.ParseException'.(ñ®ï•
+N	java:S106"9Replace this use of System.out or System.err by a logger.(”îÉÎ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÔÍÏæÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ
+O
+java:S2864*"4Iterate over the "entrySet" instead of the "keySet".(äÈŞüÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(şõúë
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(äìÎÆ

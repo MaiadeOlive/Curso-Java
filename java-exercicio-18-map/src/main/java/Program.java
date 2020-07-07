@@ -3,14 +3,15 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.text.ParseException;
 import java.util.HashMap;
+import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Scanner;
 
 public class Program {
-	public static void main(String[] args) throws ParseException {
+	public static void main(String[] args) {
 
 		Scanner sc = new Scanner(System.in);
-		Map<String, Integer> election = new HashMap<>();
+		Map<String, Integer> election = new LinkedHashMap<>();
 
 		System.out.println("/home/bridge/Curso-Java/java-exercicio-18-map/src/main/java/in.txt");
 
@@ -25,8 +26,8 @@ public class Program {
 				System.out.println(line);
 
 				String[] fields = line.split(",");
-				String candidate = fields[0];
-				int votes = Integer.parseInt(fields[1]);
+				String candidate = fields[0].trim();
+				int votes = Integer.parseInt(fields[1].trim());
 
 				if(election.containsKey(candidate)){
 					int votesUntilNow = election.get(candidate);
