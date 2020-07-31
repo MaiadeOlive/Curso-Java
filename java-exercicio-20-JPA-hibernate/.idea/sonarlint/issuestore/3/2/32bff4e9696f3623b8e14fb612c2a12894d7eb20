@@ -1,0 +1,19 @@
+
+Q
+java:S22016"/The return value of "toUpperCase" must be used.(êç¹Úıÿÿÿÿ8û¾®µ·.
+L
+java:S1656a"/Remove or correct this useless self-assignment.(é’„»8íãÔ¶·.
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ğ¡ø–ıÿÿÿÿ8„ÙØ—·.
+o
+java:S3776P"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Ğ¤Ç¦8ÆĞ³¶·.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(Èñ¸àøÿÿÿÿ8Ö¯Ö”·.
+V
+java:S4973$"9Use the "equals" method if value comparison was intended.(¯ßø8Ö¯Ö”·.
+Q
+java:S2201A"/The return value of "toLowerCase" must be used.(ê¡Íûÿÿÿÿÿ8Èò¯µ·.
+L
+java:S1656\"/Remove or correct this useless self-assignment.(é’„»8ÿäå¶·.
+W
+java:S1191"5Use classes from the Java API instead of Sun classes.(ŸªÑñüÿÿÿÿ8ËÿÖ”·.

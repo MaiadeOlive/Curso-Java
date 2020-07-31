@@ -22,11 +22,9 @@
     <list default="true" id="4e4efc25-9536-4b0c-95ab-12bd709489a6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/e/0e31d5c93172a4b6a76a80a5bd12b1228c358be3" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2eefe86b837b612713691a98be21e6da8137c40c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-exercicio-18-map/src/main/java/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-exercicio-18-map/src/main/java/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-exercicio-18-map/target/classes/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-exercicio-18-map/target/classes/Program.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-exercicio-19-stream/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/java-exercicio-19-stream/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,10 +145,10 @@
       <screen x="47" y="0" width="1873" height="1080" />
     </state>
     <state width="1823" height="352" key="GridCell.Tab.1.right/47.0.1873.1080/1920.0.1920.1080@47.0.1873.1080" timestamp="1592167860274" />
-    <state x="181" y="241" width="1594" height="595" key="new project wizard" timestamp="1592156176441">
+    <state x="181" y="241" width="1594" height="595" key="new project wizard" timestamp="1594858164443">
       <screen x="47" y="0" width="1873" height="1080" />
     </state>
-    <state x="181" y="241" width="1594" height="595" key="new project wizard/47.0.1873.1080/1920.0.1920.1080@47.0.1873.1080" timestamp="1592156176441" />
+    <state x="181" y="241" width="1594" height="595" key="new project wizard/47.0.1873.1080/1920.0.1920.1080@47.0.1873.1080" timestamp="1594858164443" />
     <state x="646" y="238" width="673" height="678" key="search.everywhere.popup" timestamp="1592164763008">
       <screen x="47" y="0" width="1873" height="1080" />
     </state>

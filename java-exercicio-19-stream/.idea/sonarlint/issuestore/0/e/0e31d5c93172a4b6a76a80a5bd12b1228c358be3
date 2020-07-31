@@ -1,0 +1,17 @@
+
+i
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Òø·•8ßšÎ².
+T	java:S106+"9Replace this use of System.out or System.err by a logger.(”îÅR8ßšÎ².
+N
+java:S1612%",Replace this lambda with a method reference.(˜å—Ğûÿÿÿÿ8ú­ŸÎ².
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(èë×äıÿÿÿÿ8ßšÎ².
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(ô«ùÏ8Ë…°Î².
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(†‰Éâùÿÿÿÿ8ßšÎ².
+N
+java:S1612/",Replace this lambda with a method reference.(„Ãäùúÿÿÿÿ8ú­ŸÎ².
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(İèÇëÿÿÿÿÿ8ßšÎ².
+7
+java:S1220""Move this file to a named package.8ßšÎ².
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(áæ¯êıÿÿÿÿ8ßšÎ².
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(Â×•™8ßšÎ².
